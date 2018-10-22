@@ -1,0 +1,51 @@
+{
+  "categories": [
+    {
+      "_id": 1,
+      "name": "Dairy",
+      "display_name": "",
+      "description": ""
+    },
+    {
+      "_id": 2,
+      "name": "Produce",
+      "display_name": "",
+      "description": ""
+    },
+    {
+      "_id": 3,
+      "name": "Meat",
+      "display_name": "",
+      "description": ""
+    },
+    {
+      "_id": 4,
+      "name": "Floral",
+      "display_name": "",
+      "description": ""
+    }
+  ],
+  "products": [
+    {
+      "_id": 1,
+      "category": "Produce",
+      "name": "Bananas",
+      "display_name": "",
+      "description": ""
+    },
+    {
+      "_id": 2,
+      "category": "Dairy",
+      "name": "Milk",
+      "display_name": "",
+      "description": ""
+    },
+    {"_id": 1,
+      "category": "Floral",
+      "name": "Roses",
+      "display_name": "",
+      "description": ""
+    }
+  ]
+}
+
