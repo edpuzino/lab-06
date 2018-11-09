@@ -1,0 +1,29 @@
+{
+  "name": "www",
+  "version": "1.0.0",
+  "description": "Include your travis badge at the top of your `README.md` file\r In your `README.md`, describe the exported values of each module you have defined. Every function description should include it's airty (expected number of parameters), the expected data for each parameter (data-type and limitations), and it's behavior (for both valid and invalid use). Feel free to add any additional information in your `README.md` that you would like.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node index.js",
+    "watch": "nodemon index.js",
+    "test-watch": "jest --watchAll",
+    "test": "jest",
+    "lint": "eslint **/*.js"
+  },
+  "author": "Ed Puzino",
+  "license": "MIT",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "eslint": "^5.8.0",
+    "express": "^4.16.4",
+    "superagent": "^4.0.0-beta.5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edpuzino/lab-06.git"
+  },
+  "bugs": {
+    "url": "https://github.com/edpuzino/lab-06/issues"
+  },
+  "homepage": "https://github.com/edpuzino/lab-06#readme"
+}

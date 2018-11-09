@@ -3,26 +3,26 @@
     {
       "_id": 1,
       "name": "Dairy",
-      "display_name": "",
-      "description": ""
+      "display_name": "Dairy Department",
+      "description": "This department has all of your Dairy needs to include Milks, Cheeses, Creamers, Yogurts, and More"
     },
     {
       "_id": 2,
       "name": "Produce",
-      "display_name": "",
-      "description": ""
+      "display_name": "Produce Department",
+      "description": "This department has all of your Produce needs to include Fresh Fruits, Fresh Vegetables, Whole Nuts, Packaged Vegetables, Organic Fruits and Vegetables, and More"
     },
     {
       "_id": 3,
       "name": "Meat",
-      "display_name": "",
-      "description": ""
+      "display_name": "Meat Department",
+      "description": "The meat department has butchered and packaged meat products to include Beef, Pork, Chicken, Seafood, and a variety of exotic meats."
     },
     {
       "_id": 4,
       "name": "Floral",
-      "display_name": "",
-      "description": ""
+      "display_name": "Floral Departmant",
+      "description": "The floral department has a wide variety of flowers, succulents, cacti, and plants available for any special occasion."
     }
   ],
   "products": [
@@ -30,21 +30,21 @@
       "_id": 1,
       "category": "Produce",
       "name": "Bananas",
-      "display_name": "",
-      "description": ""
+      "display_name": "Bananas",
+      "description": "Fresh ripe bananas, organic also available"
     },
     {
       "_id": 2,
       "category": "Dairy",
       "name": "Milk",
-      "display_name": "",
-      "description": ""
+      "display_name": "Milk",
+      "description": "Milk, available in Whole, 2%, 1%, Fat-Free, Organic, and Lactose-Free."
     },
     {"_id": 1,
       "category": "Floral",
       "name": "Roses",
-      "display_name": "",
-      "description": ""
+      "display_name": "Roses",
+      "description": "A wide variety of roses. Different colors, and colors. Available as plants, fresh cut, or in arrangements, also available is special orders."
     }
   ]
 }
